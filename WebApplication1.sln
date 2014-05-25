@@ -19,6 +19,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Blogs", "Blogs", "{66DE1F28
 		EF6.txt = EF6.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{23BFECC2-D9B9-48AF-9051-F66BCDEDCFEC}"
+	ProjectSection(SolutionItems) = preProject
+		DB\SQLQuery1.sql = DB\SQLQuery1.sql
+		SqlQuery_1.sql = SqlQuery_1.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
