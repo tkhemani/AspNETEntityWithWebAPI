@@ -1,0 +1,1 @@
+Started with this : http://blogs.msdn.com/b/webdev/archive/2014/03/04/tutorial-series-for-entity-framework-6-mvc-5-published.aspx, but ended up following this: http://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api/creating-an-odata-endpoint
